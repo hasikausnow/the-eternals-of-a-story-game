@@ -4,4 +4,4 @@
 >  press <space> to start a game
 >if you starts the game,the menus open
 >menus selection:story,songlist,quest
->                                     
+>  if you select "songlist",you can play these song                                   
